@@ -1,1 +1,0 @@
-Run "node server" in your console then open many instances of client/index.html to start many clients.
